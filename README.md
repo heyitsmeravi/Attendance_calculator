@@ -1,1 +1,2 @@
 # Attendance_calculator
+This is a simple attendance calculator which calculates the attendance percentage based on the given inputs, i.e. the current attendance and total working days , it also take an input of minimum attendance required and then tells the user about their attendance percentage either they are in safezone or not, as minimum attendance is required for attending examinations in many of the colleges.
